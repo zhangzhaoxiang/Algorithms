@@ -4,4 +4,4 @@
 ## 目录结构
 learningSourceCode: 源码学习 \
 day*: 每日算法刷题记录 \
-day* -> review: 刷过的算法一天后/一周后重练
+day*/review: 刷过的算法一天后/一周后重练
